@@ -1,7 +1,12 @@
 
 /* Your CSS Code here. */
 main{
-	height:150
-	weight="250px"
-	background="black"
+	height:150px;
+	weight:150px;
+	background:black;
+}
+p{
+	color:white;
+	margin-left:32px;
+	padding:12px;
 }
